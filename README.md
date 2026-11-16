@@ -80,15 +80,6 @@ I enjoy turning ideas into working projects — from games and desktop applicati
 
 > Some projects are private, experimental, or still in development.
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rigby00&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rigby00&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
